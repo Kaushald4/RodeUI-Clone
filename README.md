@@ -8,7 +8,7 @@
 
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS--green)
 
-## Responsive Rode UI Clone [Live Link](https://paytmui.netlify.app/)
+## Responsive Rode UI Clone [Live Link](https://rodeui.netlify.app/)
 
 #### Screenshot
 
